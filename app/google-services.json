@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "554300466329",
+    "project_id": "bateraitrack",
+    "storage_bucket": "bateraitrack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554300466329:android:3f92f20a2c8109fe124408",
+        "android_client_info": {
+          "package_name": "com.kaza.batterymonitoring"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBojsHn_sAcbM0gdGywzwN6MGxEKa9FIhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
